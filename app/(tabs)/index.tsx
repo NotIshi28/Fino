@@ -31,8 +31,7 @@ const styles = StyleSheet.create({
     justifyContent: "center",
     alignItems: "center",
     width: "100%",
-    height: "100%",
-    backgroundColor: "#fff",
+    height: "100%"
   },
   heading: {
     fontFamily: "Outfit_700Bold",
